@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ashutosh Rajbhar 👋<br><br>Final-year B.Tech student in Computer Science & Engineering with a strong focus on backend development and problem solving.<br><br>I am passionate about building scalable web applications using Java, Spring Boot, and REST APIs. Currently, I am sharpening my Data Structures & Algorithms skills and working on real-world backend projects to prepare for software engineering roles.<br><br>💡 Interests:<br>- Backend Development (Java, Spring Boot)<br>- Data Structures & Algorithms<br>-Problem Solving Skill
+Hi, I'm Ashutosh Rajbhar 👋<br><br>Final-year B.Tech student in Computer Science & Engineering with a strong focus on backend development and problem solving.<br><br>I am passionate about building scalable web applications using Java, Spring Boot, and REST APIs. Currently, I am sharpening my Data Structures & Algorithms skills and working on real-world backend projects to prepare for software engineering roles.<br><br>💡 Interests:<br>- Backend Development (Java, Spring Boot)<br>- Data Structures & Algorithms<br>-Problem Solving Skill.
 
 
 ## 🌐 Socials:
