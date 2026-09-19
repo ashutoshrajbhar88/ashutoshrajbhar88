@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👋 About Me
 
 Hi, I'm **Ashutosh Rajbhar**, a Computer Science (Artificial Intelligence) undergraduate and aspiring **Java Backend Developer**.
