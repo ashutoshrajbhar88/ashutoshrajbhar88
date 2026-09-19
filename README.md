@@ -1,5 +1,45 @@
 # 💫 About Me:
-Hi, I'm Ashutosh Rajbhar 👋<br><br>Final-year B.Tech student in Computer Science & Engineering with a strong focus on backend development and problem solving.<br><br>I am passionate about building scalable web applications using Java, Spring Boot, and REST APIs. Currently, I am sharpening my Data Structures & Algorithms skills and working on real-world backend projects to prepare for software engineering roles.<br><br>💡 Interests:<br>- Backend Development (Java, Spring Boot)<br>- Data Structures & Algorithms<br>-Problem Solving Skill.
+## 👋 About Me
+
+Hi, I'm **Ashutosh Rajbhar**, a Computer Science (Artificial Intelligence) undergraduate and aspiring **Java Backend Developer**.
+
+I enjoy building backend applications and RESTful APIs using **Java and Spring Boot**, with a focus on clean architecture, database integration, business logic, and scalable backend development.
+
+### 💻 What I Work With
+
+* **Languages:** Java, SQL
+* **Backend:** Spring Boot, Spring Data JPA, Hibernate, JDBC, REST APIs
+* **Databases:** PostgreSQL, MySQL, pgvector
+* **Generative AI:** Spring AI, RAG, Vector Embeddings, AI-powered Response Generation
+* **Frontend:** React, Vite
+* **Tools:** Git, GitHub, Maven, Postman
+* **Core CS:** OOP, DBMS, Operating Systems, Computer Networks, Data Structures & Algorithms
+
+### 🚀 Projects
+
+**NovaCart AI — AI-Powered E-Commerce Customer Support Platform**
+
+Built an AI-powered customer-support platform using **Spring Boot, Spring AI, PostgreSQL, pgvector, React, Vite, and RAG**. The system supports AI-powered complaint analysis, knowledge retrieval, response generation, and human-in-the-loop approval workflows.
+
+**E-Commerce Backend API**
+
+Developed a RESTful backend using **Java, Spring Boot, Spring Data JPA, Hibernate, and MySQL**, implementing product, cart, and order management with layered architecture and database persistence.
+
+### 📊 Problem Solving
+
+* Solved **200+ Data Structures & Algorithms problems on LeetCode**
+* Strong foundation in **OOP, DBMS, Operating Systems, Computer Networks, and DSA**
+
+### 🎯 Currently
+
+I'm focused on strengthening my skills in **Java Backend Development, Spring Boot, REST APIs, databases, and Generative AI**, while building practical projects and preparing for entry-level software development opportunities.
+
+### 🤝 Let's Connect
+
+I'm interested in **Java Backend Development, Software Engineering, Spring Boot, Generative AI, and backend systems**.
+
+📍 Lucknow, Uttar Pradesh, India
+
 
 
 ## 🌐 Socials:
